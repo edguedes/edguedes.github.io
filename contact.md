@@ -4,11 +4,8 @@ title: Contato Ed Guedes
 ---
 
 <div id="contact">
-  <h2 class="pageTitle">Hello!</h2>
-  <div class="contactContent">
-    <p class="intro">Estou por aqui caso queira entrar em contato.</code> file.</p>
-        <p>Acompanhar meus estudos <a href="https://github.com/edguedes">GitHub</a>. Enjoy!</p>
-  </div>
+  <h2 class="pageTitle">Jogar conversa fora: </h2>
+  
   <form action="http://gmail.com/blogedguedes@gmail.com" method="POST">
     <label for="name">Nome</label>
     <input type="text" id="name" name="name" class="full-width"><br>
