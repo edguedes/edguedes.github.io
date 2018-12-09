@@ -12,4 +12,4 @@ date:   2018-Os bancos de dados NoSQL orientados a objeto surgiram para atender 
 
 <blockquote>Esse artigo tem o intuito de identificar a importância da modelagem de dados no projeto NoSQL bem como as implicações da ausência de projeto..</blockquote>
 
-<a href="https://www.linkedin.com/in/ed-guedes/">https://www.linkedin.com/in/ed-guedes/</a> 
+<a href="https://github.com/edguedes/Academico/blob/master/Walter_Artigo_IFPB.pdf">Artigo apresentado na EXPOTEC 2017.</a> 
