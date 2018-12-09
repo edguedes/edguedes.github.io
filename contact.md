@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contato Ed Guedes
 ---
 
 <div id="contact">
   <h2 class="pageTitle">Hello!</h2>
   <div class="contactContent">
     <p class="intro">Estou por aqui caso queira entrar em contato.</code> file.</p>
-        <p>If you have questions about the theme feel free to <a href="mailto:blogedguedes@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+        <p>Acompanhar meus estudos <a href="https://github.com/edguedes">GitHub</a>. Enjoy!</p>
   </div>
   <form action="http://gmail.com/blogedguedes@gmail.com" method="POST">
     <label for="name">Nome</label>
