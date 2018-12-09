@@ -1,24 +1,29 @@
 ---
 layout: default
-title: About Long Haul
+title: Sobre Walter Guedes
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h3 class="pageTitle">Sobre Walter Guedes</h3>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro"> is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
+	<p>'Olá, sou Walter Guedes, profissional de TI que curte o que faz, e caso você curta TI também aqui é um ótimo local pra ver uma visão diferente sobre desenvolvimento, métodos ágeis e outros assuntos do tema'.</p>
+  <p>' Nessa minha jornada, me deparei com inúmeras situações complexas que, quando detalhadas, eram tarefas simples que no máximo precisavam de um pouco de esforço'.</p>
+  <p>' O Mortal Kombat II fazia um enorme sucesso quando ganhei meu primeiro computador. Não deu outra, casamento sem divórcio com o mundo digital'.</p>
+  <p>' Depois de idas e vindas no setor, descobrir que continuar aprendendo é a melhor maneira de descobrir 
+mais sobre o maravilhoso mundo da TI'.</p>
+  <p>' Assim, o papel desse BLOG é divulgar minhas ideias e estudos de forma que sirvam de consultas e/ou auxílio aos diversos profissionais de TI'.</p>
+  <p>' Para ter sucesso nesse mercado, é preciso paciência, dedicação e equilibrio nas escolhas'.</p>
+  <p>' Assim, te convido para uma jornada de conhecimento e interação comigo'.</p>
+  <br>
+	<h2>Contatos</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>E-mail: blogedguedes@gmail.com</li>
+  		<li>github: https://github.com/edguedes <a href="https://github.com/edguedes"></a></li>
+  		<li>likedin: https://www.linkedin.com/in/ed-guedes/<a href="https://www.linkedin.com/in/ed-guedes/"></a></li>
   	</ul>
 </div>
+
+
+
+
