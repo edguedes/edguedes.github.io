@@ -1,4 +1,4 @@
-title: Ed Guedes
+title: Walter Guedes
 description: Nós curti TI. Se curtes também, espia aí.
 
 url: https://edguedes.github.io/
@@ -18,9 +18,9 @@ navigation:
    url: /about
    
 social:
-   github: edguedes
+   github: https://github.com/edguedes
    twitter:  
-   Likedin: 
+   Likedin: https://www.linkedin.com/in/ed-guedes/
    email: blogedguedes@gmail.com
 
 google_analytics: ""
