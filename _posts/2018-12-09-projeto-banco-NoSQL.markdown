@@ -4,11 +4,13 @@ title:  "Banco de dados NoSQL: A importância de projeto"
 date:   2018-12-09
 ---
 
-<p style="font-size:70%" class="intro"><span class="dropcap">E</span>ste material foi produzido como resultado da disciplina de Métodos e Técnicas de Pesquisa, do curso de Sistema para Internet do IFPB. O mesmo foi apresentado no Congresso de Tecnologias da Informação e Comunicação - EXPOTEC 2017.</p>
+<p style="font-size:80%" class="intro"><span class="dropcap">E</span>ste material foi produzido como resultado da disciplina de Métodos e Técnicas de Pesquisa, do curso de Sistema para Internet do IFPB. O mesmo foi apresentado no Congresso de Tecnologias da Informação e Comunicação - EXPOTEC 2017.</p>
 
 <img src="{{ '/assets/img/expotec.jpg' | prepend: site.baseurl }}" alt="Apresentação EXPOTEC 2017">
-<center style="font-size:50%> <a href="https://github.com/edguedes/Academico/blob/master/Walter_Artigo_IFPB.pdf"> Artigo apresentado na EXPOTEC 2017.</a> </center>
 
-<p style="font-size:70%">
+
+<center style="font-size:80%> <a href="https://github.com/edguedes/Academico/blob/master/Walter_Artigo_IFPB.pdf"> Artigo apresentado na EXPOTEC 2017.</a> </center>
+
+<p style="font-size:80%">
 	Esse artigo tem o intuito de identificar a importância da modelagem de dados no projeto NoSQL bem como as implicações da ausência de projeto.
 </p>
