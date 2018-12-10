@@ -4,12 +4,12 @@ title: Walter Guedes
 ---
 
 <div class="home" id="home">
-  <h3 class="pageTitle">Posts Recentes</h3>
+  <h4 class="pageTitle">Posts Recentes</h4>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <h5><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
         <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
       </li>
     {% endfor %}
