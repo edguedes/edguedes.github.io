@@ -4,7 +4,7 @@ title: Sobre Walter Guedes
 ---
 
 <div class="post">
-	<h4 class="pageTitle">Sobre Walter Guedes</h4>
+	<h3 class="pageTitle">Sobre Walter Guedes</h3>
 	  <p>Olá, sou Walter Guedes, profissional de TI que curte o que faz, e caso você curta TI também aqui é um ótimo local pra ver uma visão diferente sobre desenvolvimento, métodos ágeis e outros assuntos do tema.</p>
     <p>Nessa minha jornada, me deparei com inúmeras situações complexas que, quando detalhadas, eram tarefas simples que no máximo precisavam de um pouco de esforço.</p>
     <p>O Mortal Kombat II fazia um enorme sucesso quando ganhei meu primeiro computador. Não deu outra, casamento sem divórcio com o mundo digital.</p>
