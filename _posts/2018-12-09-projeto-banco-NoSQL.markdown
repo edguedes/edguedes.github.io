@@ -16,5 +16,5 @@ date:   2018-12-09
 
 
 <p style="font-size:90%">
-	Esse artigo tem o intuito de identificar a importância da modelagem de dados no projeto NoSQL bem como as implicações da ausência de projeto.
+	Esse artigo tem o intuito de identificar a importância da modelagem de dados em um projeto NoSQL, bem como as implicações da sua ausência num projeto.
 </p>
